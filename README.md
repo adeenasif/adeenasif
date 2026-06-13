@@ -73,8 +73,8 @@ Computer Science Undergraduate | Full-Stack Developer | Exploring AI & LLM Syste
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adeenasif&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adeenasif&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=adeenasif&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeenasif&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
